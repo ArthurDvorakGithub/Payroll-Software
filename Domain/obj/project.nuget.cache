@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWAQm/t2HQqayoZffCTfP4KJRsm7UOGThDYF8XGS8oGQEUMgAgZefII7LTLgDSNg9sgkQlE+je5nbJlqwDYaXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\Payroll.SoftwareDevelop\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Администратор\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

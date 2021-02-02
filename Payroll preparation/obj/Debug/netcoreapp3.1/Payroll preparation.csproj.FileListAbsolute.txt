@@ -1,0 +1,18 @@
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.exe
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.deps.json
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.runtimeconfig.json
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.Domain.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.Persistence.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.Domain.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\bin\Debug\netcoreapp3.1\Arthur.SofwareDevelop.Persistence.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.csproj.CopyComplete
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Arthur.SofwareDevelop.SoftwareDevelopConsole.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Payroll preparation\obj\Debug\netcoreapp3.1\Payroll preparation.genruntimeconfig.cache

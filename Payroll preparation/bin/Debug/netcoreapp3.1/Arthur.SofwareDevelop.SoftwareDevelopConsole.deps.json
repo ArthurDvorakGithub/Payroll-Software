@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arthur.SofwareDevelop.SoftwareDevelopConsole/1.0.0": {
+        "dependencies": {
+          "Arthur.SofwareDevelop.Domain": "1.0.0",
+          "Arthur.SofwareDevelop.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Arthur.SofwareDevelop.SoftwareDevelopConsole.dll": {}
+        }
+      },
+      "Arthur.SofwareDevelop.Domain/1.0.0": {
+        "runtime": {
+          "Arthur.SofwareDevelop.Domain.dll": {}
+        }
+      },
+      "Arthur.SofwareDevelop.Persistence/1.0.0": {
+        "runtime": {
+          "Arthur.SofwareDevelop.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arthur.SofwareDevelop.SoftwareDevelopConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arthur.SofwareDevelop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arthur.SofwareDevelop.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

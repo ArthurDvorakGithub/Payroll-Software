@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Persistence.deps.json
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Persistence.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Persistence.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Arthur.SofwareDevelop.Persistence.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Persistence\obj\Debug\netstandard2.0\Arthur.SofwareDevelop.Persistence.pdb

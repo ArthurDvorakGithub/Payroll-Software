@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Domain.deps.json
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Domain.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\bin\Debug\netstandard2.0\Arthur.SofwareDevelop.Domain.pdb
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Arthur.SofwareDevelop.Domain.dll
+C:\Users\Администратор\source\repos\Payroll.SoftwareDevelop\Domain\obj\Debug\netstandard2.0\Arthur.SofwareDevelop.Domain.pdb
